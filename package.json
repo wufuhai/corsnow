@@ -1,0 +1,25 @@
+{
+  "name": "corsnow",
+  "version": "1.0.0",
+  "description": "A simple cors proxy with cors-anywhere",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wufuhai/corsnow.git"
+  },
+  "keywords": [
+    "CORS"
+  ],
+  "author": "Kelvin Wu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wufuhai/corsnow/issues"
+  },
+  "homepage": "https://github.com/wufuhai/corsnow#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.1"
+  }
+}
